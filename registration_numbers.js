@@ -24,7 +24,7 @@ function checkTown (e)
       if (e.target.value === "all")
       {
         myList[i].style.display = "block";
-        console.log(myList[i]);
+  //      console.log(myList[i]);
       }
       else if (myList[i].innerHTML.startsWith(e.target.value))
       {

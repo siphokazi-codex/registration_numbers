@@ -4,6 +4,8 @@ background-color: #6f8e6b;
 align-items: center;
 text-align: center;
 align-content: center;
+padding-top: 1px;
+height: 660px;
 width: 100%;
 }
 
@@ -33,7 +35,7 @@ width: 100%;
 h3{
   margin-top: 50px;
   color: #5e0006;
-  margin-left: -29%;
+  margin-left: -28%;
   text-decoration: underline;
   font-size: 25px;
 }
@@ -70,9 +72,10 @@ ul {
   border-radius: 3px;
   font-weight: bold;
   width: 17%;
-  height: 30px;
-  margin-left: 380px;
+  height: 35px;
+  margin-left: 457px;
   font-size: 18px;
+  margin-bottom: 20px;
 }
 
 .myClear{
@@ -96,8 +99,9 @@ ul {
 }
 
 #list {
-  margin-left: 30%;
-  margin-top: -2.5%;
+  margin-left: -30px;
+  margin-top: -3%;
+  width: 1000px;
 }
 
 #dropdown {
@@ -109,4 +113,10 @@ ul {
   font-weight: bold;
   font-size: 20px;
   margin-left: -440px;
+}
+
+.myList {
+
+margin-left: 30%;
+
 }
