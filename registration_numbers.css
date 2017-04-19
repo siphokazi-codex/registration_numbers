@@ -116,7 +116,11 @@ ul {
 }
 
 .myList {
+  margin-left: 30%;
+  width: 500px;
+}
 
-margin-left: 30%;
-
+#list {
+  padding-top: 30px;
+  overflow-y: scroll;
 }
